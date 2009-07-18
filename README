@@ -1,0 +1,34 @@
+"ShoppingCloud" Ruby on Rails E-commerce Engine
+
+#Intro
+
+"From the day Richard "rms" Stallman published the GNU Manifesto to
+Linus Torvalds producing Linux to DHH's Ruby on Rails, it has been a
+very well gracious thanks to all who have supported and contributed to
+"free software" movement.
+
+#Why ShoppingCloud?
+
+    production-ready
+    bug-tested
+    fresh and ready for major developments
+
+#What is the purpose of this?
+
+    Apparently most of free software right now tends to be "one for
+    all" and we believe that it causes slow development which defeats
+    our initial purpose for free software. We aim to identify the
+    specific specifications for production working code for the simple
+    reason of improving the development of existing codes. And to spread
+    the "good code".
+
+#What do you "specifically" need for this install?
+
+    Ruby 1.8..6
+    Ruby on Rails 2.2.2
+    Webmin 1..480
+    Phusion_Passenger 2.2.2
+    Apache Webserver
+    PostgreSQL Database Server
+
+#Get Hacking!
